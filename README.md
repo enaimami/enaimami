@@ -20,7 +20,6 @@ eğer projelerimede bakarsanız göreceğiniz gibi saçma ne varsa yaparım beni
 
 mail : 1terabyterma@gmail.com
 
-/
 # Hey, I'm mami.
 
 ## 🚀 About Me
