@@ -2,9 +2,9 @@
 
 ## 🚀 Hakkımda
 
-Yazılım geliştirmeye tutkuyla bağlı bir geliştiriciyim. Yeni teknolojiler öğrenmeyi ve problemlere yaratıcı çözümler üretmeyi seviyorum.
+Yazılım geliştirmeye tutkuyla bağlı bir geliştiriciyim. Yeni teknolojiler öğrenmeyi ve problemlere yaratıcı çözümler üretmeyi sevmiyorum. şahsen öğrendiğim programlama dilinin inciğini cıncığını araştırırım başkasınada kolay kolay geçmem valla 
 
-- 🔭 Şu anda **[Üzerinde çalıştığın proje]** üzerinde çalışıyorum
+- 🔭 Şu anda **Sikik bir hesap makinesi** üzerinde çalışıyorum
 - 🌱 **[Öğrendiğin teknoloji]** öğreniyorum
 - 💬 Bana **[İlgilendiğin konular]** hakkında sorabilirsin
 - 📫 Bana ulaşın: **[email@example.com]**
@@ -23,9 +23,9 @@ Yazılım geliştirmeye tutkuyla bağlı bir geliştiriciyim. Yeni teknolojiler 
 
 ## 📊 GitHub İstatistiklerim
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[KULLANICI_ADIN]&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enaimami&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[KULLANICI_ADIN]&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enaimami&layout=compact&theme=radical)
 
 ## 🔥 GitHub Streak
 
