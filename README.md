@@ -1,54 +1,21 @@
-# 👋 Merhaba, Ben [Adın]
+# Merhaba, Ben mami.
 
 ## 🚀 Hakkımda
 
-Yazılım geliştirmeye tutkuyla bağlı bir geliştiriciyim. Yeni teknolojiler öğrenmeyi ve problemlere yaratıcı çözümler üretmeyi sevmiyorum. şahsen öğrendiğim programlama dilinin inciğini cıncığını araştırırım başkasınada kolay kolay geçmem valla 
+Bu dünyada görüp görebileceğiniz en kirli kodu yazan geliştiricilerden birisi ben olabilirim.
+yazdığım kodun mantığını bir ben birde llm'ler anlıyo sahsen bununla gurur duymuyorum ama kendime özgüyüm yani.
 
-- 🔭 Şu anda **Sikik bir hesap makinesi** üzerinde çalışıyorum
-- 🌱 **[Öğrendiğin teknoloji]** öğreniyorum
-- 💬 Bana **[İlgilendiğin konular]** hakkında sorabilirsin
-- 📫 Bana ulaşın: **[email@example.com]**
-- ⚡ İlginç bilgi: **[Kendini anlatan ilginç bir şey]**
+programlamaya aslında sadece bir giriş birde kayıt olma formu yapmak için girdim.
+eğer bir hr bunu okuyorsa cidden iş pek umrumda değil ama beni işe alırsanız kodlarınızın benzersiz olacağını söyleyebilirim.
+benzersizden kastım cidden çünkü kodlarımda her zaman ilk saçma sonra çok mantıklı yöntemler falan kullanırım.
 
-## 🛠️ Teknolojiler & Araçlar
+42'de havuz ikincisi olmuştum sonra zaten birincinin tamamen llm kullandığını falan öğrendik biraz garipti ama neyse.
+şuanlık referans hiçbir projem yok ve zaten size kanıtlayacağım bişeyde olduğunu düşünmüyorum.
+ben genelde dene gör insanıyım normal bir insanın asla denemeyeceği şeyleri denerim rezil olurum ama ayağa kalkarım yani beni bir C'deki pointerlar birde kendim yıldırırım mobbing falan bana işlemez yani.
+ayrıca Node.js, PHP, Python, C, C#, klasik web geliştirme deneyimi (html + css + js) bilgim falan var.
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+öyle havalı bir lavukta değilim ben ama arkadaşlarım genelde komik olduğumu söyler.
+eğer projelerimede bakarsanız göreceğiniz gibi saçma ne varsa yaparım benim için her şey hobi projesidir.
+öyle işte benimle konusmak isterseniz instagram : enaimami, X : enaimami, reddit : enaimami. evet her yerde enaimami kullanıyorum
 
-## 📊 GitHub İstatistiklerim
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enaimami&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enaimami&layout=compact&theme=radical)
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[KULLANICI_ADIN]&theme=radical)
-
-## 🌐 Bana Ulaşın
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kullanici-adin)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/kullanici-adin)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/kullanici-adin)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:email@example.com)
-
-## 💼 Öne Çıkan Projeler
-
-### [Proje Adı 1](https://github.com/kullanici-adin/proje-1)
-Proje hakkında kısa açıklama. Bu projede ne yaptığını, hangi teknolojileri kullandığını anlat.
-
-### [Proje Adı 2](https://github.com/kullanici-adin/proje-2)
-Bir diğer havalı projen hakkında bilgi. Projenin ne işe yaradığını ve neden özel olduğunu belirt.
-
-### [Proje Adı 3](https://github.com/kullanici-adin/proje-3)
-Üçüncü önemli projen. Burada da projenin amacını ve kullanılan teknolojileri paylaş.
-
----
-
-⭐️ [Kullanıcı Adın](https://github.com/kullanici-adin) tarafından oluşturuldu
+mail : 1terabyterma@gmail.com
