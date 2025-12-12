@@ -19,3 +19,26 @@ eğer projelerimede bakarsanız göreceğiniz gibi saçma ne varsa yaparım beni
 öyle işte benimle konusmak isterseniz instagram : enaimami, X : enaimami, reddit : enaimami. evet her yerde enaimami kullanıyorum
 
 mail : 1terabyterma@gmail.com
+
+/
+# Hey, I'm mami.
+
+## 🚀 About Me
+
+I might be one of the developers who writes the dirtiest code you'll ever see.
+Only me and LLMs understand the logic behind my code, honestly I'm not proud of it but I'm unique, you know.
+
+I actually got into programming just to make a login and registration form.
+If an HR is reading this, I honestly don't care much about the job, but if you hire me, I can guarantee your code will be unique.
+By unique, I mean it for real because I always use methods that seem stupid at first but then turn out to be very logical.
+
+I came second in the 42 piscine, then we found out the first place guy completely used LLMs and stuff, it was a bit weird but whatever.
+I currently have no reference projects and I don't think I have anything to prove to you anyway.
+I'm generally a try-and-see person, I try things a normal person would never attempt, I embarrass myself but I get back up, so only pointers in C and myself can intimidate me, mobbing doesn't work on me.
+Also, I have experience with Node.js, PHP, Python, C, C#, classic web development (html + css + js).
+
+I'm not some cool dude either, but my friends generally say I'm funny.
+If you look at my projects, you'll see I do whatever stupid thing there is, everything is a hobby project for me.
+So yeah, if you want to talk to me: instagram: enaimami, X: enaimami, reddit: enaimami. yes I use enaimami everywhere
+
+mail: 1terabyterma@gmail.com
