@@ -18,6 +18,9 @@ ayrıca Node.js, PHP, Python, C, C#, klasik web geliştirme deneyimi (html + css
 eğer projelerimede bakarsanız göreceğiniz gibi saçma ne varsa yaparım benim için her şey hobi projesidir.
 öyle işte benimle konusmak isterseniz instagram : enaimami, X : enaimami, reddit : enaimami. evet her yerde enaimami kullanıyorum
 
+ayrıca hayır homofobik veya herhangi bir şey fobik değilim insanların ne yaptığı umrumda değil
+en büyük sigara düşmanıyım lütfen sigara içmeyin :<
+
 mail : 1terabyterma@gmail.com
 
 # Hey, I'm mami.
@@ -40,4 +43,6 @@ I'm not some cool dude either, but my friends generally say I'm funny.
 If you look at my projects, you'll see I do whatever stupid thing there is, everything is a hobby project for me.
 So yeah, if you want to talk to me: instagram: enaimami, X: enaimami, reddit: enaimami. yes I use enaimami everywhere
 
+and also im not homophobic or anyphobic i dont care about people do things.
+also biggest cigarettes hater, dont smoke :<<<
 mail: 1terabyterma@gmail.com
