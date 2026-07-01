@@ -20,9 +20,7 @@ Projelerime bakarsanız zaten her şeyi bir hobi olarak gördüğümü ve eğlen
 
 ---
 
-### 🚭 Kamu Spotu & Sosyal Medya
-* **Önemli Not:** Her türlü fobiye karşıyım, insanların ne yaptığıyla ilgilenmiyorum. Ama en büyük sigara düşmanıyım. Lütfen sigara içmeyin, ciğerlerinize yazık. :<
-
+### Sosyal Medya
 Her yerde kullanıcı adım aynı, bana ulaşmak isterseniz:
 * **Instagram / X / Reddit:** `@enaimami`
 * **E-posta:** `1terabyterma@gmail.com`
@@ -51,9 +49,7 @@ If you check my repositories, you'll see I treat everything as a hobby project. 
 
 ---
 
-### 🚭 Public Service Announcement & Contact
-* **Friendly Reminder:** I have zero space for any kind of phobia—live and let live. However, I am a massive cigarette hater. Please don't smoke, your lungs deserve better. :<
-
+### Contact
 I use the same handle everywhere. Feel free to reach out:
 * **Instagram / X / Reddit:** `@enaimami`
 * **Email:** `1terabyterma@gmail.com`
